@@ -1,4 +1,4 @@
 # OpenGLStudyTest
-In this I am studying openGL creat one small project in from basic understanding of the openGL
+In this I am studying openGLES creat one small project in from basic understanding of the openGLES
 
 
